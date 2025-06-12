@@ -1,0 +1,1 @@
+First, run nasdaq_data_downloader.py to download the raw data. Then, execute fix_csv_format.py to clean the data. Next, open modelling.ipynb to train the model. Finally, run stock_visualizer.py to visualize and analyze stock and ETF data.
